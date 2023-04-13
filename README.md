@@ -55,11 +55,11 @@ This project built on existing work in the brain tumor detection space by expand
 Some next steps I would like to take are:
 
 1. Preprocess the images further by thresholding and cropping the skull/brain, to reduce the amount of black space and other potential noise present in each image before modeling.
-2. Expand the number of classes further to make more granular classificaiton predictions possible.
+2. Expand the number of classes further to make more granular classification predictions possible.
 3. Test additional transfer learning approaches, such as the one [proposed in this paper.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9600529/)
 
 ## Links to Materials
-Presentation
+[Presentation](https://github.com/emgerber88/brain_tumor_CNN_classifier/blob/main/Brain_Tumor_Classifier_Model_Slides.pdf)
 [Jupyter Notebook](https://github.com/emgerber88/brain_tumor_CNN_classifier/blob/main/Brain_Tumor_CNN_Modeling.ipynb)
 
 ## Repository Structure
@@ -68,5 +68,6 @@ Presentation
 ├── data
 ├── .gitignore
 ├── Brain_Tumor_CNN_Modeling.ipynb
+├──Brain_Tumor_Classifier_Model_Slides.pdf
 └── README.md
 ```
