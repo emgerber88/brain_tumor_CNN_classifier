@@ -1,0 +1,4 @@
+/Users/eli/Desktop/brain_tumor_CNN_classifier/final_model/assets filter=lfs diff=lfs merge=lfs -text
+/Users/eli/Desktop/brain_tumor_CNN_classifier/final_model/keras_metadata.pb filter=lfs diff=lfs merge=lfs -text
+/Users/eli/Desktop/brain_tumor_CNN_classifier/final_model/saved_model.pb filter=lfs diff=lfs merge=lfs -text
+/Users/eli/Desktop/brain_tumor_CNN_classifier/final_model/variables filter=lfs diff=lfs merge=lfs -text
