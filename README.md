@@ -66,8 +66,10 @@ Some next steps I would like to take are:
 ```
 ├── images
 ├── data
+├── .gitattributes
 ├── .gitignore
 ├── Brain_Tumor_CNN_Modeling.ipynb
-├──Brain_Tumor_Classifier_Model_Slides.pdf
-└── README.md
+├── Brain_Tumor_Classifier_Model_Slides.pdf
+├── README.md
+└── Streamlit_App.py
 ```
