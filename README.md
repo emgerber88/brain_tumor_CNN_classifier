@@ -60,6 +60,7 @@ Some next steps I would like to take are:
 
 ## Links to Materials
 [Presentation](https://github.com/emgerber88/brain_tumor_CNN_classifier/blob/main/Brain_Tumor_Classifier_Model_Slides.pdf)
+
 [Jupyter Notebook](https://github.com/emgerber88/brain_tumor_CNN_classifier/blob/main/Brain_Tumor_CNN_Modeling.ipynb)
 
 ## Repository Structure
